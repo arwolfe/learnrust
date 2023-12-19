@@ -113,3 +113,5 @@ fn answer() -> i32 {
 fn check_answer_validity() {
     assert_eq!(answer(), 42);
 }
+
+// https://rust-cli.github.io/book/tutorial/testing.html
